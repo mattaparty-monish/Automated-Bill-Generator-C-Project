@@ -1,0 +1,1 @@
+Thanks Mr./Mrs. {{name}} for purchasing {{item}} at Rs {{price}}.00 from our outlet {{outlet}}. Please visit our outlet {{outlet}} for any kind of problems. We plan to serve you again soon.
